@@ -40,9 +40,9 @@ function removeFailedStudent() {
 function concatenateArray() {
   //Write your code here, just console.log
   const additionalStudents = [
-    { id: 4, name: "emma", age: "21", marks: 70 },
-    { id: 5, name: "peter", age: "22", marks: 65 },
-    { id: 6, name: "lisa", age: "20", marks: 55 }
+    { id: 4, name: "rose", age: "21", marks: 70 },
+    { id: 5, name: "lily", age: "22", marks: 65 },
+    { id: 6, name: "jossi", age: "20", marks: 55 }
   ];
 
   const concatenatedArray = arr.concat(additionalStudents);
